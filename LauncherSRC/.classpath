@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/louis/Documents/eclipe lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/louis/Documents/eclipe lib/openauth-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/louis/Documents/eclipe lib/openlauncherlib-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/louis/Documents/eclipe lib/s-update-3.1.0-BETA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/louis/Documents/eclipe lib/swinger-1.0.1-BETA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
